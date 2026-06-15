@@ -4,7 +4,7 @@
 
 ### Android developer crafting native apps with Kotlin, MVVM & Clean Architecture
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-4D9FE8?style=for-the-badge)](https://noransayed.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-4D9FE8?style=for-the-badge)]([https://noransayed.github.io](https://noransayed.github.io/Portfolio/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noran-sayed)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nouransayed702@gmail.com)
 
