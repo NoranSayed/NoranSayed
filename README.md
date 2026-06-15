@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Noran Sayed 👋
 
-<!--
-**NoranSayed/NoranSayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Android Developer | Kotlin & Java | MVVM, Jetpack, Clean Architecture
 
-Here are some ideas to get you started:
+🎓 B.Sc. Computer Science & AI — Cairo University (2024)
+🏆 Top Achiever, Route Academy Android Development Diploma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Kotlin, Java, JavaScript
+- **Android:** Jetpack Compose, Room, Navigation, LiveData, ViewModel, Hilt
+- **Networking:** Retrofit2, OkHttp, Coroutines, Flow
+- **Backend:** Firebase (Firestore, Auth, FCM, Storage)
+- **Testing:** JUnit, Espresso, Mockito
+
+## 📱 Featured Projects
+- **E-Commerce Android App** — MVVM, Clean Architecture, Retrofit2, Room, Hilt, Firebase
+- **News Reader App** — MVVM, LiveData, Navigation Component, Room caching
+
+## 📫 Reach me
+- LinkedIn: [Noran Sayed](https://linkedin.com/in/noran-sayed)
